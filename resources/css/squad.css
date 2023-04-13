@@ -1,0 +1,59 @@
+body {
+    background-color:#fff;
+
+}
+nav{
+  background-color: rgb(104, 101, 98);
+  width: 100%;
+}
+.li{
+  display: inline;
+  color:#fff;
+  width: 100% ;
+  margin-right: 20px;
+
+}
+
+  
+
+#logo{
+    height: 30px;
+}
+#input{
+  float: right;
+  display: inline;
+}
+a{
+  color:#fff;
+  text-decoration: none;
+}
+#header{
+  width: 900px;
+  height: 150px;
+  float: right;
+  background-color: aqua;
+}
+h2{
+  font-size: xx-large;
+  justify-content: center;
+  text-align: center;
+ 
+  width: auto;
+}
+
+.card-body{
+  color:#181616;
+  background-image: url(../background\ image.jpg) ;
+  width: auto;
+  height: 500px;
+  justify-content: center;
+  display: flex;
+}
+footer{
+  background-color: rgb(104, 101, 98);
+  width: 100%;
+  height: auto;
+}
+#about{
+  width: auto;
+}
